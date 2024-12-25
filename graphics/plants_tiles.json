@@ -1,0 +1,34 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "file": "graphics/Plants.png",
+        "tiles": [
+          { "id": "Foxf_Foxbangtail", "fg": 1 },
+          { "id": "Foxf_Foxmireweed", "fg": 2 },
+          { "id": "Foxf_Foxbrineweed", "fg": 3 },
+          { "id": "Foxf_Foxlunarweed", "fg": 4 },
+          { "id": "Foxf_Foxjellyweed", "fg": 5 },
+          { "id": "Foxf_Foxfishweed", "fg": 6 },
+          { "id": "Foxf_Foxstormfern", "fg": 7 },
+          { "id": "Foxf_Foxmireroot", "fg": 8 },
+          { "id": "Foxf_Foxcairnroot", "fg": 9 },
+          { "id": "Foxf_Foxsmugglersroot", "fg": 10 },
+          { "id": "Foxf_Foxbloodgrass", "fg": 11 },
+          { "id": "Foxf_Foxstimgrass", "fg": 12 },
+          { "id": "Foxf_Foxwoegrass", "fg": 13 },
+          { "id": "Foxf_Foxbroomgrass", "fg": 14 },
+          { "id": "Foxf_Foxwhitewound", "fg": 15 },
+          { "id": "Foxf_Foxcorpsefuzz", "fg": 16 },
+          { "id": "Foxf_Foxghostthistle", "fg": 17 },
+          { "id": "Foxf_Foxgravebaneshrub", "fg": 18 },
+          { "id": "Foxf_Foxacidlemonbush", "fg": 19 }
+        ]
+      }
+    ]
+  }
+]
