@@ -1,0 +1,30 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "file": "graphics/imp_gear.png",
+        "tiles": [
+          { "id": "Foximpwastelandsuit", "fg": 1 },
+          { "id": "overlay_wielded_Foximpwastelandsuit", "fg": 1 },
+          { "id": "overlay_worn_Foximpwastelandsuit", "fg": 1 },
+          { "id": "FoximpCWCsuit", "fg": 2 },
+          { "id": "overlay_wielded_FoximpCWCsuit", "fg": 2 },
+          { "id": "overlay_worn_FoximpCWCsuit", "fg": 2 },
+          { "id": "Foximpwastelandsmock", "fg": 3 },
+          { "id": "overlay_wielded_Foximpwastelandsmock", "fg": 3 },
+          { "id": "overlay_worn_Foximpwastelandsmock", "fg": 3 },
+          { "id": "Foxglovestactical", "fg": 4 },
+          { "id": "overlay_wielded_Foxglovestactical", "fg": 4 },
+          { "id": "overlay_worn_Foxglovestactical", "fg": 4 },
+          { "id": "Foxbootscombat", "fg": 5 },
+          { "id": "overlay_wielded_Foxbootscombat", "fg": 5 },
+          { "id": "overlay_worn_Foxbootscombat", "fg": 5 }
+        ]
+      }
+    ]
+  }
+]
