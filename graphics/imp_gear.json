@@ -22,7 +22,10 @@
           { "id": "overlay_worn_Foxglovestactical", "fg": 4 },
           { "id": "Foxbootscombat", "fg": 5 },
           { "id": "overlay_wielded_Foxbootscombat", "fg": 5 },
-          { "id": "overlay_worn_Foxbootscombat", "fg": 5 }
+          { "id": "overlay_worn_Foxbootscombat", "fg": 5 },
+          { "id": "Foximpintelligencesuit", "fg": 6 },
+          { "id": "overlay_wielded_Foximpintelligencesuit", "fg": 6 },
+          { "id": "overlay_worn_Foximpintelligencesuit", "fg": 6 }
         ]
       }
     ]
