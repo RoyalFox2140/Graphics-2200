@@ -26,7 +26,14 @@
           { "id": "Foxf_Foxcorpsefuzz", "fg": 16 },
           { "id": "Foxf_Foxghostthistle", "fg": 17 },
           { "id": "Foxf_Foxgravebaneshrub", "fg": 18 },
-          { "id": "Foxf_Foxacidlemonbush", "fg": 19 }
+          { "id": "Foxf_Foxacidlemonbush", "fg": 19 },
+          { "id": "Foxf_wasteberrybush", "fg": 20 },
+          { "id": "Foxf_wastenutbush", "fg": 21 },
+          { "id": "Foxf_desertcottonplant", "fg": 22 },
+          { "id": "Foxf_wastewoodsapling", "fg": 23 },
+          { "id": "Foxf_deadwoodsapling", "fg": 24 },
+          { "id": "Foxf_wastetuberplant", "fg": 25 },
+          { "id": "Foxf_deserttobaccoplant", "fg": 26 }
         ]
       }
     ]
