@@ -1,0 +1,16 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "file": "graphics/terrain.png",
+        "tiles": [
+          { "id": "Foxt_wastelandsoil", "fg": 1 }
+        ]
+      }
+    ]
+  }
+]
