@@ -1,4 +1,6 @@
-The png files are derivative works of https://github.com/Theawesomeboophis/UndeadPeopleTileset and thus is licensed as CC-BY-SA 3.0
+Some of the png files are derivative works of https://github.com/Theawesomeboophis/UndeadPeopleTileset and thus is licensed as CC-BY-SA 3.0
+
+Some of the png files are from RLtiles and are modified, see the credits file for that.
 
 Derivative work includes but is not limited to: Shifting color and saturation, Taking base sprites to trace or merge together to form new sprites, etc.
 
